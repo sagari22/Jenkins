@@ -13,7 +13,7 @@ public class FirstTest {
 	@Test
 	public void myTest(){
    System.out.println("helo");
-   WebDriver driver= new FirefoxDriver();
+   //WebDriver driver= new FirefoxDriver();
 	}
 
 }
